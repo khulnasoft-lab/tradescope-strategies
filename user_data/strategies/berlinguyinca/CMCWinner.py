@@ -14,7 +14,7 @@ import numpy # noqa
 class CMCWinner(IStrategy):
     """
     This is a test strategy to inspire you.
-    More information in https://github.com/tradescope/tradescope/blob/develop/docs/bot-optimization.md
+    More information in https://github.com/khulnasoft/tradescope/blob/develop/docs/bot-optimization.md
 
     You can:
     - Rename the class name (Do not forget to update class_name)
