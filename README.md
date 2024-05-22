@@ -108,5 +108,3 @@ tradescope download-data --days 100
 ```
 
 *Note:* Generally, it's recommended to use static backtest data (from a defined period of time) for comparable results.
-
-Please check out the [official backtesting documentation](https://www.tradescope.khulnasoft.com/en/latest/backtesting/) for more information.
