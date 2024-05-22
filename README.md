@@ -1,6 +1,6 @@
-# TradeScope strategies
+# Tradescope strategies
 
-This Git repo contains free buy/sell strategies for [TradeScope](https://github.com/khulnasoft/tradescope).
+This Git repo contains free buy/sell strategies for [Tradescope](https://github.com/khulnasoft/tradescope).
 
 All strategies should work with a tradescope version of 2022.4 or newer.
 
@@ -24,7 +24,7 @@ bot.
 - [Free trading strategies](#free-trading-strategies)
 - [Contribute](#share-your-own-strategies-and-contribute-to-this-repo)
 - [FAQ](#faq)
-    - [What is TradeScope?](#what-is-tradescope)
+    - [What is Tradescope?](#what-is-tradescope)
     - [What includes these strategies?](#what-includes-these-strategies)
     - [How to install a strategy?](#how-to-install-a-strategy)
     - [How to test a strategy?](#how-to-test-a-strategy)
@@ -60,9 +60,9 @@ Feel free to send your strategies, comments, optimizations and pull requests via
 
 ## FAQ
 
-### What is TradeScope?
+### What is Tradescope?
 
-[TradeScope](https://github.com/khulnasoft/tradescope) TradeScope is a free and open source crypto trading bot written in Python.
+[Tradescope](https://github.com/khulnasoft/tradescope) Tradescope is a free and open source crypto trading bot written in Python.
 It is designed to support all major exchanges and be controlled via Telegram. It contains backtesting, plotting and money management tools as well as strategy optimization by machine learning.
 
 ### What includes these strategies?
@@ -79,7 +79,7 @@ Best backtest multiple strategies with the exchange and pairs you're interrested
 
 ### How to install a strategy?
 
-First you need a [working TradeScope](https://tradescope.khulnasoft.com).
+First you need a [working Tradescope](https://tradescope.khulnasoft.com).
 
 Once you have the bot on the right version, follow this steps:
 
